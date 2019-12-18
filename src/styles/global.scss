@@ -1,16 +1,16 @@
 /* VENDOR - Default fall-backs and external files.
    ============================================ */
 
-    @import './vendor/normalize';
+    @import './vendor/normalize/import-now';
 
 
 
 /* BASE - base files with variables, mixins and placeholders.
    ======================================================= */
 
-   @import './base/variables';
-   @import './base/mixins';
-   @import './base/placeholders';
+   @import './base/_variables';
+   @import './base/_mixins';
+   @import './base/_placeholders';
 
 
 
