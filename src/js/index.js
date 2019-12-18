@@ -1,4 +1,4 @@
 // Application controller
-import styles from '../styles/app.default';
+import '../styles/global';
 
 console.log('It works!');
